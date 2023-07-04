@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: linear-gradient(115deg, rgba(133, 181, 236, 0.8),rgba(31.4, 78.4, 47.1, 0)),url(img/logo1.jpg);
+    background-size: cover;
+    background-color:;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    text-decoration-color: #e67300;
+  }
+  
+  img {
+    max-width:300px;
+    margin-bottom: 20px;
+  }
+  
+  section {
+    padding: 40px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  body{
+    font-family: sans-serif;
+    background: linear-gradient(115deg, rgba(133, 181, 236, 0.8),rgba(31.4, 78.4, 47.1, 0)),url(img/bckg3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: ;
+ }
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff8800;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 4px;
+  }
+  
+  .cta-button:hover {
+    background-color: #e67300;
+  }
+  
