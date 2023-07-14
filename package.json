@@ -1,14 +1,17 @@
 {
-  "name": "simple-server",
+  "name": "server",
   "version": "1.0.0",
   "description": "this isa simple server",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "ladyroyal",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "connect-mongo": "^5.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
   }
 }
