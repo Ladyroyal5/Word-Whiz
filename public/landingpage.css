@@ -36,7 +36,7 @@ p {
 }
   body{
     font-family: sans-serif;
-    background: linear-gradient(115deg, rgba(133, 181, 236, 0.8),rgba(31.4, 78.4, 47.1, 0)),url(img/bckg3.jpg);
+    background: linear-gradient(115deg, rgba(133, 181, 236, 0.8),rgba(31.4, 78.4, 47.1, 0)),url(bckg3.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
