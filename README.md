@@ -25,4 +25,4 @@ Word whiz is an interactive quiz application that tests your knowledge with a va
 - Once you select an answer, the application will display whether your answer was correct or incorrect, update your score, and move to the next question.
 - After answering all the questions, the game will end, and your final score will be displayed.
 - You can choose to play again by clicking on the "Play Again" button
-- [lilian Nyinyayo](https://github.com/Ladyroyal5) - Creator of Word whiz.
+- [lilian Nyinyayo](https://github.com/Ladyroyal5) & [Emeka Jude Okonkwo](https://github.com/JudeALX) - Creator of Word whiz.
